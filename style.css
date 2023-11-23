@@ -104,4 +104,8 @@
     position: absolute;
     bottom: -4px;
     left:20px;
+  } 
+  #header img{
+    height: 50px;
+    width: 400px;
   }
