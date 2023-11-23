@@ -190,19 +190,19 @@
                 </div> 
             </div>     
         </footer>
-    </body>
-    <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            var currentUrl = window.location.href;
-
-            var navLinks = document.querySelectorAll("#navbar li a");
-            navLinks.forEach(function (link) {
-                if (link.href === currentUrl) {
-                    link.classList.add("active");
-                } else {
-                    link.classList.remove("active");
-                }
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                var currentUrl = window.location.href;
+    
+                var navLinks = document.querySelectorAll("#navbar li a");
+                navLinks.forEach(function (link) {
+                    if (link.href === currentUrl) {
+                        link.classList.add("active");
+                    } else {
+                        link.classList.remove("active");
+                    }
+                });
             });
-        });
-    </script>
+        </script>
+    </body>
 </html>
