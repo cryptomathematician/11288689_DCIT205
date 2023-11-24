@@ -626,6 +626,116 @@
     outline: none;
     transition: 0.2s;
   }
+  #aboutletter{
+  text-align: center;
+  padding: 50px;
+  margin-left: 0px;
+}
+#aboutletter .pro-container{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}
+#aboutletter .pro2{
+  width: 2000px;
+  min-width: 250px;
+  padding:10px 12px;
+  border: 1px solid  #5a5a5a;
+  border-radius: 25px;
+  cursor: pointer;
+  margin: 15px 0;
+  transition: 0.2s ease;
+  position: relative;
+}
+#aboutletter .pro:hover{
+  box-shadow: 20px 20px 30px rgba(0,0,0,0.06);
+}
+
+
+#aboutletter .pro2 .des{
+  text-align: start;
+  padding: 10px 0;
+}
+#aboutletter .pro2 .des span{
+  color: #606063;
+  font-size: 14px;
+}
+#aboutletter .pro2 .des h5{
+  color: #1a1a1a;
+  padding-top: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+#aboutletter .pro2 .des i{
+  font-size: 12px;
+  color: rgba(243,181,25);
+}
+#aboutletter.pro2 .des h4{
+  padding-top: 7px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #088178;
+}
+#aboutletter .pro2{
+  width: 2000px;
+  min-width: 250px;
+  padding:10px 12px;
+  border: 1px solid  white;
+  border-radius: 25px;
+  cursor: pointer;
+  margin: 15px 0;
+  transition: 0.2s ease;
+  position: relative;
+}
+#aboutletter .pro:hover{
+  box-shadow: 20px 20px 30px rgba(0,0,0,0.06);
+}
+
+
+#aboutletter .pro3 .des{
+  text-align: start;
+  padding: 10px 0;
+}
+#aboutletter .pro3 .des span{
+  color: #606063;
+  font-size: 14px;
+}
+#aboutletter .pro3 .des h5{
+  color: #1a1a1a;
+  padding-top: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+#aboutletter .pro3 .des i{
+  font-size: 12px;
+  color: rgba(243,181,25);
+}
+#aboutletter.pro3 .des h4{
+  padding-top: 7px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #088178;
+}
+#aboutletter .pro3 img{
+  width: 100%;
+  border-radius: 20px;
+}
+#aboutletter .pro3{
+  width: 1200px;
+  height: 600px;
+  min-width: 250px;
+  padding:10px 12px;
+  border: 1px solid white;
+  border-radius: 25px;
+  cursor: pointer;
+  margin: 15px 0;
+  transition: 0.2s ease;
+  position: relative;
+  margin-left: 300px;
+}
   
 
   
