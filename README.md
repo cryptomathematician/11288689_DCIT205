@@ -23,7 +23,7 @@ ID: 11288689
 
 # Add Screenshots of your output here
 Home Page Screeshots:
--![Home1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Home/Home1.png)
+-![Home1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Home/Home1.png)
 -![Home2](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Home/Home2.png)
 -![Home3](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Home/Home3.png)
 -![Home4](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Home/Home4.png)
