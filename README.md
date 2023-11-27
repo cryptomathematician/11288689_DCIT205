@@ -38,7 +38,7 @@ Contact Page Screenshots:
 -![Contact1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Contact/Contact1.png) 
 
 Staff Profiles Page Screenshots:
--![StaffProfiles1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/staffProfiles/StaffProfiles1.png) 
+-![staffProfiles1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/staffProfiles/staffProfiles1.png) 
 
 About Page Screenshots:
 -![About1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/About/About1.png) 
