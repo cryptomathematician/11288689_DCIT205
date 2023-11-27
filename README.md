@@ -24,43 +24,43 @@ ID: 11288689
 # Add Screenshots of your output here
 Home Page Screeshots:
 -![Home1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Home/Home1.png)
--![Home2](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Home/Home2.png)
--![Home3](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Home/Home3.png)
--![Home4](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Home/Home4.png)
+-![Home2](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Home/Home2.png)
+-![Home3](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Home/Home3.png)
+-![Home4](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Home/Home4.png)
 
 Blog Page Screenshots:
--![Blog1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Blog/Blog1.png)
+-![Blog1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Blog/Blog1.png)
 
 Events Page Screenshots:
--![Events1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Events/Events1.png)
+-![Events1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Events/Events1.png)
 
 Contact Page Screenshots:
--![Contact1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Contact/Contact1.png) 
+-![Contact1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Contact/Contact1.png) 
 
 Staff Profiles Page Screenshots:
--![StaffProfiles1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/staffProfiles/StaffProfiles1.png) 
+-![StaffProfiles1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/staffProfiles/StaffProfiles1.png) 
 
 About Page Screenshots:
--![About1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/About/About1.png) 
--![About2](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/About/About2.png) 
+-![About1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/About/About1.png) 
+-![About2](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/About/About2.png) 
 
 
 Resources Page Screenshots:
--![resource1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/resources/resource1.png) 
+-![resource1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/resources/resource1.png) 
 
 Library Page Screenshots:
--![Library1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Library/Library1.png) 
+-![Library1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Library/Library1.png) 
 
 Research Page Screeshots:
--![research1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Research/research1.png)
--![research2](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Research/research2.png)
--![research3](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Research/research3.png)
+-![research1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Research/research1.png)
+-![research2](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Research/research2.png)
+-![research3](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Research/research3.png)
 
 Courses Page Screeshots:
--![Courses1](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Courses/Courses1.png)
--![Courses2](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Courses/Courses2.png)
--![Courses3](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Courses/Courses3.png)
--![Courses4](https://github.com/cryptomathematician/11288689_DCIT205/tree/main/screenshots/Courses/Courses4.png)
+-![Courses1](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Courses/Courses1.png)
+-![Courses2](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Courses/Courses2.png)
+-![Courses3](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Courses/Courses3.png)
+-![Courses4](https://github.com/cryptomathematician/11288689_DCIT205/blob/main/screenshots/Courses/Courses4.png)
 
 # Learnings throughout this project
 - Improved web development skills using modern technologies such as HTML, CSS, and JavaScript.
