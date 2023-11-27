@@ -6,7 +6,7 @@ Welcome to Computer Science Department Website,This Readme document provides com
 # Cloning the Project:
 
 1. Install Git:
-If you haven't already, install Git on your machine. You can download it from Git's official website.
+ install Git on your machine. You can download it from Git's official website.
 
 2. Open a Terminal or Command Prompt:
 
@@ -54,7 +54,6 @@ Save your changes in the code editor, and the browser will automatically refresh
 
 While developing, periodically check your project in different browsers to ensure cross-browser compatibility.
 Version Control:
-
 Use version control (Git) to track changes in your project. Commit your changes regularly.
 
 
